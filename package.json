@@ -1,0 +1,10 @@
+{
+  "name": "blockbox",
+  "version": "1.0.0",
+  "description": "BLOCKBOX — blocky ragdoll sandbox with multiplayer, prop hunt and zombie survival",
+  "main": "server.js",
+  "scripts": { "start": "node server.js" },
+  "engines": { "node": ">=18" },
+  "dependencies": { "express": "^4.19.2", "socket.io": "^4.7.5" },
+  "license": "MIT"
+}
